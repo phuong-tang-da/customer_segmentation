@@ -1,1 +1,9 @@
-# customer_segmentation
+# Customer Segmentation
+## Inspirations & Objectives
+
+## Overview of dataset
+
+## Summary of approach
+
+## Results
+
