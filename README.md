@@ -27,4 +27,4 @@ Source: https://www.kaggle.com/c/instacart-market-basket-analysis
 -	To identify unique profile of each segment
 
 ## Results
-
+![Screenshot](Segment profile.png)
